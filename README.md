@@ -1,4 +1,5 @@
-# Personal Website
+# Personal Website 
+https://karna0005.github.io/My-Resume/
 
 Welcome to the repository of my personal website. This website serves as a digital portfolio showcasing my personal information, projects, skills, and contact information. It's built with a combination of HTML, CSS, PHP, and JavaScript to create a responsive and interactive experience.
 
@@ -26,31 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 - PHP 
 - A modern web browser
 
-### Installing
 
-1. **Clone the repository**
-
-   ```sh
-   git clone https://github.com/Karna0005/personal-website.git
-   ```
-
-2. **Navigate to the project directory**
-
-   ```sh
-   cd personal-website
-   ```
-
-3. **Run a local server (if using PHP's built-in server)**
-
-   ```sh
-   php -S localhost:8000
-   ```
-
-4. **Open your web browser and navigate to**
-
-   ```
-   http://localhost:8000
-   ```
 
 ## Usage
 
